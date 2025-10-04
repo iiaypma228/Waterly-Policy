@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Account Deletion — Waterly</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background-color: #f7f9fc;
+      color: #222;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #00aaff;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #007acc;
+    }
+    ul {
+      margin-top: 0.5rem;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      padding: 2rem 1rem;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Account Deletion — Waterly</h1>
+  </header>
+  <main>
+    <p>
+      If you would like to delete your account and all related data from the <strong>Waterly</strong> app,
+      please follow the steps below.
+    </p>
+
+    <h2>Step 1. Submit a Request</h2>
+    <p>
+      Send an email to:
+      <a href="mailto:gleuvatska.hromada@gmail.com">gleuvatska.hromada@gmail.com</a><br />
+      with the subject line: <strong>“Waterly Account Deletion Request”</strong>.
+    </p>
+    <p>In your email, please include:</p>
+    <ul>
+      <li>the email address linked to your account;</li>
+      <li>(optional) your user ID if it is visible in the app.</li>
+    </ul>
+
+    <h2>Step 2. Confirmation</h2>
+    <p>
+      Once we receive your request, we will verify your information and send a confirmation email.
+      After confirmation, your account and associated data will be permanently deleted.
+    </p>
+
+    <h2>Data That Will Be Deleted</h2>
+    <ul>
+      <li>name and email address;</li>
+      <li>purchase and usage history of water liters;</li>
+      <li>interaction history with vending machines;</li>
+      <li>profile information (e.g., photo, preferences, etc.);</li>
+    </ul>
+
+    <h2>Data That May Be Retained</h2>
+    <p>
+      We may temporarily retain anonymized technical data (such as logs and analytics)
+      for up to <strong>30 days</strong> for security and reporting purposes.
+    </p>
+
+    <h2>Deletion Timeline</h2>
+    <p>
+      Complete deletion of your data will be processed within <strong>7 business days</strong>
+      after confirmation of your request.
+    </p>
+
+    <h2>Developer Information</h2>
+    <p>
+      Developer: <strong>Waterly</strong><br />
+      Website: <a href="https://waterly.me/">https://waterly.me/</a><br />
+      Email: <a href="mailto:gleuvatska.hromada@gmail.com">gleuvatska.hromada@gmail.com</a>
+    </p>
+  </main>
+  <footer>
+    © 2025 Waterly. All rights reserved.
+  </footer>
+</body>
+</html>
